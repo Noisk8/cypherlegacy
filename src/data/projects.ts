@@ -7,18 +7,24 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Arch Linux Package",
-    techs: ["bash"],
+    title: "Undisclosed 1122 en casa",
+    techs: ["Live"],
     link: "https://codenanshu.in/projects/ttf-apple-fonts/",
   },
   {
-    title: "Firstly",
-    techs: ["React Native", "JavaScript"],
+    title: "Physocomore ",
+    techs: ["Dj set"],
     link: "https://codenanshu.in/projects/firstly/",
   },
   {
-    title: "Astro / Template",
-    techs: ["Astro"],
+    title: "Noisk8 set 1",
+    techs: ["Dj set"],
+    link: "/"
+  },
+
+  {
+    title: "Volketierno set 1",
+    techs: ["Vcv rack set"],
     link: "/"
   },
 ];

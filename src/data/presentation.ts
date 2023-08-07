@@ -14,24 +14,17 @@ const presentation: Presentation = {
   mail: "Musíca para canalizar la realidad",
   title: "CypherLegacy",
   description:
-    "Cypher legacy es la unión de dos duplas creativas",
+    "Cypher legacy es la unión de dos duplas creativas, Cyphernomicon [El sueño de una pensión] y Arp Legacy [Undisclosed1122 & Phycomore]",
   socials: [
     {
-      label: "Pyscomore",
+      label: "Cyphernomicon",
       link: "https://twitter.com/gxanshu",
     },
     {
-      label: "Volketierno",
+      label: "ArpLegacy",
       link: "https://bento.me/gxanshu",
     },
-    {
-      label: "Noisk8",
-      link: "https://github.com/gxanshu",
-    },
-    {
-      label: "Undisclosed1122",
-      link: "https://github.com/gxanshu",
-    },
+  
   ],
 };
 
