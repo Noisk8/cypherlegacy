@@ -7,25 +7,31 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Undisclosed 1122 en casa",
-    techs: ["Live"],
-    link: "https://codenanshu.in/projects/ttf-apple-fonts/",
+    title: "Escucha Psycomore - Selección Tracks de VELEZ ",
+    techs: ["Dj set"],
+    link: "https://on.soundcloud.com/rG4aw",
   },
   {
-    title: "Physocomore ",
+    title: "URANUS PODCAST #08 PSYCOMORE de URANUS",
     techs: ["Dj set"],
-    link: "https://codenanshu.in/projects/firstly/",
+    link: "https://on.soundcloud.com/kwL4N",
   },
   {
-    title: "Noisk8 set 1",
+    title: "UNDISCLOSED 1122 by Renata Rave",
     techs: ["Dj set"],
-    link: "/"
+    link: "https://on.soundcloud.com/BRAxHH4dH7V5A2zN8"
   },
 
   {
-    title: "Volketierno set 1",
-    techs: ["Vcv rack set"],
-    link: "/"
+    title: "Noisk8 Trusting in the future",
+    techs: ["Dj set"],
+    link: "https://www.mixcloud.com/noi-silva/trusting-in-the-future/"
+  },
+
+  {
+    title: "Noisk8 Cuervos y Rosas",
+    techs: ["Dj set"],
+    link: "https://www.mixcloud.com/noi-silva/sistemas-volatiles/"
   },
 ];
 
