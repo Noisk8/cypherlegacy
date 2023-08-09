@@ -18,11 +18,11 @@ const presentation: Presentation = {
   socials: [
     {
       label: "Cyphernomicon",
-      link: "https://twitter.com/gxanshu",
+      link: "https://www.instagram.com/el_sueno_de_una_pension/",
     },
     {
-      label: "ArpLegacy",
-      link: "https://bento.me/gxanshu",
+      label: "Arplegacy",
+      link: "https://www.instagram.com/arplegacy/",
     },
   
   ],
