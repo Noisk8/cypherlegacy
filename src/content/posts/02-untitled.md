@@ -1,7 +1,7 @@
 ---
 title: "Arp Legacy"
 publishedAt: 2023-05-24
-description: "Medellín - Colombia"
+description: "Psycomore & Undisclosed1122"
 slug: "untitled"
 isPublish: true
 ---
