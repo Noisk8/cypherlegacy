@@ -33,6 +33,11 @@ const projects: Project[] = [
     techs: ["Dj set"],
     link: "https://www.mixcloud.com/noi-silva/sistemas-volatiles/"
   },
+  {
+    title: "| Episode 095 | Psycomore de Sonidos Subterraneos",
+    techs: ["Dj set"],
+    link: "https://soundcloud.com/ssubterraneos/episode-095-psycomore"
+  },
 ];
 
 export default projects;
